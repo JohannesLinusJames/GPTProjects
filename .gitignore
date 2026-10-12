@@ -1,0 +1,7 @@
+.venv/
+.venv-windows/
+install.log
+instance/
+__pycache__/
+.pytest_cache/
+*.sqlite*
